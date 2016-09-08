@@ -1,0 +1,7 @@
+{
+    "require": {
+        "pimax/fb-messenger-php": "dev-master",
+        "monolog/monolog": "^1.21",
+        "catfan/Medoo": "^1.1"
+    }
+}
